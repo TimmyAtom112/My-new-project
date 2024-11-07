@@ -12,7 +12,6 @@ goodbyes = ["Bye!", "See you later! ", "Goodbye!", "Have a nice day", "Take care
 thanks = ["You are welcome!", " No problem!", "Thanks!", "Alright!", "Glad i could help!"]
 jokes = ["why was the math book sad? Answer: Because it has too many problems hahaha.", "Why do programmers prefer dark mode? Answer: Because light attracts bugs hahaha.", "Why did the Wi-Fi router go to therapy?,Answer: Because it was feeling disconnected! hahaha"]
 unknown = ["Sorry, i didn't get that.", "I'm not sure what you mean.", "Can you please rephrase that!"]
-riddles = [""]
 
 #This defines the chatbot functions
 def greet(name):
